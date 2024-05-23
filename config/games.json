@@ -660,6 +660,11 @@
     "title": "Toss The Turtle"
   },
   {
+    "link": "projects/tower-defense/index.html",
+    "imgSrc": "projects/tower-defense/image.png",
+    "title": "Tower Defense"
+  },
+  {
     "link": "projects/tube-jumpers/index.html",
     "imgSrc": "projects/tube-jumpers/img/shark.jpg",
     "title": "Tube Jumpers"
