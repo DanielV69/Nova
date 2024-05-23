@@ -1,1 +1,2 @@
-### Nova - THIS IS A FORK OF 3kh0-lite EDITED TO MY LIKING
+### Nova
+## This is a fork of 3kh0-lite edited to my liking
